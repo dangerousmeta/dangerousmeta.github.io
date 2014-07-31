@@ -3,12 +3,5 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Just giving Jekyll a good kick in the tires. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
